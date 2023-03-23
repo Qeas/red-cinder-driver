@@ -1,1 +1,1 @@
-# red-cinder-driver
+# red-cinder-plugin
